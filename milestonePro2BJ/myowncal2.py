@@ -1,0 +1,1 @@
+print("Sample Menu: \t \n \tCalculator\n add\n Subtract\nDivide\nMulitply\nQuit")
